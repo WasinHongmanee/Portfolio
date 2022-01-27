@@ -10,13 +10,13 @@ This is a repository that I have created to showcase my skills, share projects, 
 
 # Projects
 
-In this section I will list my projects and briefly describe the technologies used.
+In this section I will list my projects, briefly describe them and share my insight and findings.
 
 ### Restaurant KPIs Visualized
 
 **Code**: [Link](https://github.com/WasinHongmanee/Sales-Report/blob/main/dashboard.pdf)
 
-**Description:** Using data taken from my family restaurant's POS, I created a dashboard in Power BI to help visualize KPIs and explore data. The KPIs we are concerned with are current and past sales and labor costs. We are also looking for ways to optimize employee hours each day.
+**Description:** Using data taken from my family restaurant's POS, I created a dashboard in Power BI to help visualize KPIs and explore data. The KPIs we are concerned with are current and past sales and labor costs. We are also looking for ways to optimize employee hours each day. 
 
 **note:** Data has been manipulated to keep trends but not show real values. Second slide which contained employee work hours and food costs have also been taken out.
 
@@ -47,7 +47,7 @@ employee work hour plans for winter 2022.
 
 **Code:** [Link](https://github.com/WasinHongmanee/SpotifyRecommendation)
 
-**Description:** Given a user selected song on Spotify, return five similar songs from my own music library. Using Spotify's API, I extracted my library of music and 16 numeric features attached with them labeled by Spotify. Some of the features are tempo, acousticness, liveness, key and mode, and popularity. I normalized these features and compare them to the user given song using a measurement called [cosine similarity.](https://en.wikipedia.org/wiki/Cosine_similarity)
+**Description:** Given a user selected song on Spotify, return five similar songs from my own music library. Using Spotify's API, I extracted my library of music and 16 numeric features attached with them labeled by Spotify. Some of the features are tempo, acousticness, liveness, key and mode, and popularity. I normalized these features and compare them to the user given song using a measurement called [cosine similarity ](https://en.wikipedia.org/wiki/Cosine_similarity).
 
 **Skills:** data extraction using a REST API, data cleaning, numerical feature normalization using StandardScaler, pairwise-comparison using cosine similarity
 
