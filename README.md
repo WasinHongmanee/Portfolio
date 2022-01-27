@@ -1,4 +1,4 @@
-# Wasin Hongmanee - Data Science Portfolio
+# Portfolio
 
 # About
 
