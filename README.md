@@ -12,7 +12,7 @@ This is a repository that I have created to showcase my skills, share projects, 
 
 In this section I will list my projects, briefly describe them and share my insight and findings.
 
-### Restaurant KPIs Visualized [Link](https://github.com/WasinHongmanee/Sales-Report/blob/main/dashboard.pdf)
+### Restaurant KPIs Visualized [Link](https://github.com/WasinHongmanee/Sales-Report)
 
 **Description:** Using data taken from my family restaurant's POS, I created a dashboard in Power BI to help visualize KPIs and explore data. The KPIs we are concerned with are current and past sales and labor costs. We are also looking for ways to optimize employee hours each day. 
 
@@ -48,3 +48,4 @@ employee work hour plans for winter 2022.
 **Worked With:** Python, sklearn, pandas, REST API, Jupyter Notebooks
 
 **Current Results:** Similar songs are found, but depending on the genre, it may show a 'similar' song from different genres due to lack of number of songs and variety. Different similarity techniques may be required to quantify how well the song recommendations are.
+
