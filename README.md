@@ -47,7 +47,7 @@ employee work hour plans for winter 2022.
 
 **Code:** [Link](https://github.com/WasinHongmanee/SpotifyRecommendation)
 
-**Description:** Given a user selected song on Spotify, return five similar songs from my own music library. Using Spotify's API, I extracted my library of music and 16 numeric features attached with them labeled by Spotify. Some of the features are tempo, acousticness, liveness, key and mode, and popularity. I normalized these features and compare them to the user given song using a measurement called [cosine similarity ](https://en.wikipedia.org/wiki/Cosine_similarity).
+**Description:** Given a user selected song on Spotify, return five similar songs from my own music library. Using Spotify's API, I extracted my library of music and 16 numeric features attached with them labeled by Spotify. Some of the features are tempo, acousticness, liveness, key and mode, and popularity. I normalized these features and compare them to the user given song using a measurement called [cosine similarity.](https://en.wikipedia.org/wiki/Cosine_similarity)
 
 **Skills:** data extraction using a REST API, data cleaning, numerical feature normalization using StandardScaler, pairwise-comparison using cosine similarity
 
