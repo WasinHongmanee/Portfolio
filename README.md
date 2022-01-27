@@ -1,5 +1,4 @@
-# Data Science Portfolio
-
+# Portfolio
 # About
 
 Hi, my name is Wasin. I have a Bachelor of Science (B.S.) degree in Statistics from UC Davis and a minor in Computer Science.
