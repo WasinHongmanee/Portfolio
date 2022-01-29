@@ -22,7 +22,7 @@ In this section I will list my projects, briefly describe them and share my insi
 
 **Worked with:** Power BI, relational databases
 
-**Results:** Used to propose a new data-driven delivery system that can increase revenue by 25% and to improve
+**Results:** Used to propose a new data-driven delivery system that can increase DoorDash revenue by 25% and to improve
 employee work hour plans for winter 2022.
 
 
