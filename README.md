@@ -34,7 +34,7 @@ In this section I will list my projects, briefly describe them and share my insi
 
 **Results:** The key predictors for game outcome are gold, kill, and experience difference. Winning games have a median difference of 1250 gold, 3 kills and 1000 experience. The original logistic regression model has about a cross validation accuracy mean of .720 while SelectKBest and recursive feature elimination have an accuracy mean of about .725. Both methods agree the other categorical variables are not predictive features.
 
-### Data Pipeline Employment (IN PROGRESS) [Link](https://github.com/WasinHongmanee/SalesPipeline)
+### Sales Data Pipeline Deployment (IN PROGRESS) [Link](https://github.com/WasinHongmanee/SalesPipeline)
 
 Description: Transfer sales data from the last 7/30/90 days from my new restaurant's POS database onto a SQL server that can be queried remotely and shown visually. Attempt to automate as much as the process as possible. 
 
