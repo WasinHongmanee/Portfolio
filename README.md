@@ -14,7 +14,7 @@ In this section I will list my projects, briefly describe them and share my insi
 
 ### Restaurant KPIs Visualized [Link](https://github.com/WasinHongmanee/Sales-Report)
 
-**Description:** Using data taken from my family restaurant's POS, I created a dashboard in Power BI to help visualize KPIs and explore data. The KPIs we are concerned with are current and past sales and labor costs. We are also looking for ways to optimize employee hours each day. 
+**Description:** Using data taken from my family restaurant’s POS, I created a dashboard in Power BI to help visualize KPIs and explore data. The KPIs we are concerned with are current and past sales and labor costs. We are also looking for ways to optimize employee hours each day.
 
 **note:** Data has been manipulated to keep trends but not show real values. Second slide which contained employee work hours and food costs have also been taken out.
 
@@ -22,10 +22,7 @@ In this section I will list my projects, briefly describe them and share my insi
 
 **Worked with:** Power BI, relational databases
 
-**Results:** Used to propose a new data-driven delivery system that can increase DoorDash revenue by 25% and to improve
-employee work hour plans for winter 2022.
-
-
+**Results:** Used to propose a new data-driven delivery system that can increase DoorDash revenue by 25% and to improve employee work hour plans for winter 2022.
 
 ### Key Winning Features In League of Legends [Link](https://github.com/WasinHongmanee/League-Win-Predictors)
 
@@ -37,15 +34,20 @@ employee work hour plans for winter 2022.
 
 **Results:** The key predictors for game outcome are gold, kill, and experience difference. Winning games have a median difference of 1250 gold, 3 kills and 1000 experience. The original logistic regression model has about a cross validation accuracy mean of .720 while SelectKBest and recursive feature elimination have an accuracy mean of about .725. Both methods agree the other categorical variables are not predictive features.
 
+### Data Pipeline Employment (IN PROGRESS) [Link](https://github.com/WasinHongmanee/SalesPipeline)
 
+Description: Transfer sales data from the last 7/30/90 days from my new restaurant's POS database onto a SQL server that can be queried remotely and shown visually. Attempt to automate as much as the process as possible. 
+
+Skills: Data engineering, Data cleaning, Data analysis, ETL, automation
+
+Worked with: MS SQL Server, Power BI, Python
 
 ### Personal Song Recommendation System using Spotify (IN PROGRESS) [Link](https://github.com/WasinHongmanee/SpotifyRecommendation)
 
-**Description:** Given a user selected song on Spotify, return five similar songs from my own music library. Using Spotify's API, I extracted my library of music and 16 numeric features attached with them labeled by Spotify. Some of the features are tempo, acousticness, liveness, key and mode, and popularity. I normalized these features and compare them to the user given song using a measurement called [cosine similarity ](https://en.wikipedia.org/wiki/Cosine_similarity).
+**Description:** Given a user selected song on Spotify, return five similar songs from my own music library. Using Spotify’s API, I extracted my library of music and 16 numeric features attached with them labeled by Spotify. Some of the features are tempo, acousticness, liveness, key and mode, and popularity. I normalized these features and compare them to the user given song using a measurement called [cosine similarity ](https://en.wikipedia.org/wiki/Cosine_similarity).
 
 **Skills:** data extraction using a REST API, data cleaning, numerical feature normalization using StandardScaler, pairwise-comparison using cosine similarity
 
 **Worked With:** Python, sklearn, pandas, REST API, Jupyter Notebooks
 
-**Current Results:** Similar songs are found, but depending on the genre, it may show a 'similar' song from different genres due to lack of number of songs and variety. Different similarity techniques may be required to quantify how well the song recommendations are.
-
+**Current Results:** Similar songs are found, but depending on the genre, it may show a ‘similar’ song from different genres due to lack of number of songs and variety. Different similarity techniques may be required to quantify how well the song recommendations are.
