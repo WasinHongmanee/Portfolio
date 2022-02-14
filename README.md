@@ -20,7 +20,7 @@ In this section I will list my projects, briefly describe them and share my insi
 
 **Skills:** data cleaning, data visualization, data analysis
 
-**Worked with:** Power BI, relational databases
+**Worked with:** Power BI, relational databases, Excel
 
 **Results:** Used to propose a new data-driven delivery system that can increase DoorDash revenue by 25% and to improve employee work hour plans for winter 2022.
 
