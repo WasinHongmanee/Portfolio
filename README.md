@@ -36,11 +36,24 @@ In this section I will list my projects, briefly describe them and share my insi
 
 ### Sales Data Pipeline Deployment (IN PROGRESS) [Link](https://github.com/WasinHongmanee/SalesPipeline)
 
-Description: Transfer sales data from the last 7/30/90 days from my new restaurant's POS database onto a SQL server that can be queried remotely and shown visually. Attempt to automate as much as the process as possible. 
+**Description:** Query sales data using SQL from the last 7/30/90 days from my new restaurant's POS database server and upload to Google Sheets using their API in Python once a week. Automatically refresh the Tableau dashboard every time the Google Sheets updates.
 
-Skills: Data engineering, Data cleaning, Data analysis, ETL, automation
+**Skills:** Data engineering, Data cleaning, Data analysis, ETL, automation
 
-Worked with: MS SQL Server, Power BI, Python
+**Worked with:** MS SQL Server, Tableau, Python, Google Sheets
+
+### Online Ordering System Follow-up Data Exploration using MS SQL[Link](https://github.com/WasinHongmanee/Sales-Report/blob/main/Dashboard%20follow%20up.ipynb)
+
+**Description:** By querying the database at our second restaurant, we are able to judge the success of the new online ordering system. We are also looking for different ways to improve our restaurant. Some questions are:
+How much money did we save using our new online ordering system?
+Are the customers mainly dining in or getting food to take home?
+What type of customers are more likely to tip more money? People that order online, dine inside, or people that call in take out food?
+
+**Skills:** Data Analysis
+
+**Worked With:** MS SQL Server, Azure Data Studio
+
+**Results:** We were able to save $340 from this restaurant using our new online ordering system between December 1st 2021 to January 31st 2022. Customers are about evenly split between dining in and getting take-out food(including online pick-up orders). Customers are more likely to tip more when they dine in. However, customers that order online pick-up orders have tipped more than customers that call in to pick up food.
 
 ### Personal Song Recommendation System using Spotify (IN PROGRESS) [Link](https://github.com/WasinHongmanee/SpotifyRecommendation)
 
