@@ -34,7 +34,7 @@ In this section I will list my projects, briefly describe them and share my insi
 
 **Results:** The key predictors for game outcome are gold, kill, and experience difference. Winning games have a median difference of 1250 gold, 3 kills and 1000 experience. The original logistic regression model has about a cross validation accuracy mean of .720 while SelectKBest and recursive feature elimination have an accuracy mean of about .725. Both methods agree the other categorical variables are not predictive features.
 
-### Sales Data Pipeline Deployment (IN PROGRESS) [Link](https://github.com/WasinHongmanee/SalesPipeline)
+### Sales Data Pipeline Deployment (IN PROGRESS) [Link](https://github.com/WasinHongmanee/Sales-Pipeline)
 
 **Description:** Query sales data using SQL from the last 7/30/90 days from my new restaurant's POS database server and upload to Google Sheets using their API in Python once a week. Automatically refresh the Tableau dashboard every time the Google Sheets updates.
 
@@ -42,9 +42,10 @@ In this section I will list my projects, briefly describe them and share my insi
 
 **Worked with:** MS SQL Server, Tableau, Python, Google Sheets
 
-### Online Ordering System Follow-up Data Exploration using MS SQL[Link](https://github.com/WasinHongmanee/Sales-Report/blob/main/Dashboard%20follow%20up.ipynb)
+### Online Ordering System Follow-up Data Exploration using MS SQL [Link](https://github.com/WasinHongmanee/Sales-Report/blob/main/Dashboard%20follow%20up.ipynb)
 
 **Description:** By querying the database at our second restaurant, we are able to judge the success of the new online ordering system. We are also looking for different ways to improve our restaurant. Some questions are:
+
 How much money did we save using our new online ordering system?
 Are the customers mainly dining in or getting food to take home?
 What type of customers are more likely to tip more money? People that order online, dine inside, or people that call in take out food?
