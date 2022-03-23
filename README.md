@@ -18,8 +18,6 @@ In this section I will list my projects, briefly describe them and share my insi
 
 **note:** Data has been manipulated to keep trends but not show real values. Second slide which contained employee work hours and food costs have also been taken out.
 
-**Skills:** data cleaning, data visualization, data analysis
-
 **Worked with:** Power BI, relational databases, Excel
 
 **Results:** Used to propose a new data-driven delivery system that can increase DoorDash revenue by 25% and to improve employee work hour plans for winter 2022.
@@ -38,8 +36,6 @@ In this section I will list my projects, briefly describe them and share my insi
 
 **Description:** Query sales data using SQL from the last 7/30/90 days from my new restaurant's POS database server and upload to Google Sheets using their API in Python once a week. Automatically refresh the Tableau dashboard every time the Google Sheets updates.
 
-**Skills:** Data engineering, Data cleaning, Data analysis, ETL, automation
-
 **Worked with:** MS SQL Server, Tableau, Python, Google Sheets
 
 ### Online Ordering System Follow-up Data Exploration using MS SQL [Link](https://github.com/WasinHongmanee/Sales-Report/blob/main/Dashboard%20follow%20up.ipynb)
@@ -50,8 +46,6 @@ How much money did we save using our new online ordering system?
 Are the customers mainly dining in or getting food to take home?
 What type of customers are more likely to tip more money? People that order online, dine inside, or people that call in take out food?
 
-**Skills:** Data Analysis
-
 **Worked With:** MS SQL Server, Azure Data Studio
 
 **Results:** We were able to save $340 from this restaurant using our new online ordering system between December 1st 2021 to January 31st 2022. Customers are about evenly split between dining in and getting take-out food(including online pick-up orders). Customers are more likely to tip more when they dine in. However, customers that order online pick-up orders have tipped more than customers that call in to pick up food.
@@ -59,8 +53,6 @@ What type of customers are more likely to tip more money? People that order onli
 ### Personal Song Recommendation System using Spotify (IN PROGRESS) [Link](https://github.com/WasinHongmanee/SpotifyRecommendation)
 
 **Description:** Given a user selected song on Spotify, return five similar songs from my own music library. Using Spotify’s API, I extracted my library of music and 16 numeric features attached with them labeled by Spotify. Some of the features are tempo, acousticness, liveness, key and mode, and popularity. I normalized these features and compare them to the user given song using a measurement called [cosine similarity ](https://en.wikipedia.org/wiki/Cosine_similarity).
-
-**Skills:** data extraction using a REST API, data cleaning, numerical feature normalization using StandardScaler, pairwise-comparison using cosine similarity
 
 **Worked With:** Python, sklearn, pandas, REST API, Jupyter Notebooks
 
