@@ -4,9 +4,9 @@
 
 Hi, my name is Wasin. I recently graduated with a Bachelor of Science (B.S.) degree in Statistics from UC Davis and a minor in Computer Science. In the last year I have been applying the skills I've learned at my family restaurant. This consists of querying the database in MS SQL to solve everyday problems and making dashboards with the data we store.
 
-After spending the last year practicing my skills, I now have a varied skill set that spans a wide range of computer languages and technologies. I am proficient with Python, SQL, Power BI, and Excel, as well as many data oriented libraries in Python such as sklearn, TensorFlow, pandas and Seaborn.
+This portfolio showcases the skills I learned after graduating. I now have a varied skill set that spans a wide range of computer languages and technologies. I am proficient with Python, SQL, Power BI, and Excel, as well as many data oriented libraries in Python such as sklearn, TensorFlow, pandas and Seaborn.
 
-This is a repository that I have created to show my skills and share projects related to Data Analytics & Data Science.
+This is a repository that I have created to show my skills and share projects related to Data Analytics & Data Science from 2021
 
 # Projects
 
