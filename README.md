@@ -50,7 +50,7 @@ What type of customers are more likely to tip more money? People that order onli
 
 **Results:** We were able to save $340 from this restaurant using our new online ordering system between December 1st 2021 to January 31st 2022. Customers are about evenly split between dining in and getting take-out food(including online pick-up orders). Customers are more likely to tip more when they dine in. However, customers that order online pick-up orders have tipped more than customers that call in to pick up food.
 
-### Personal Song Recommendation System using Spotify (IN PROGRESS) [Link](https://github.com/WasinHongmanee/SpotifyRecommendation)
+### Personal Song Recommendation System using Spotify [Link](https://github.com/WasinHongmanee/SpotifyRecommendation)
 
 **Description:** Given a user selected song on Spotify, return five similar songs from my own music library. Using Spotify’s API, I extracted my library of music and 16 numeric features attached with them labeled by Spotify. Some of the features are tempo, acousticness, liveness, key and mode, and popularity. I normalized these features and compare them to the user given song using a measurement called [cosine similarity ](https://en.wikipedia.org/wiki/Cosine_similarity).
 
